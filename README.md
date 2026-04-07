@@ -1,2 +1,35 @@
-# GTA-V-Custom-Music-Loader
-Music Loader for GTA V
+# GTA V — Custom Music Loader
+
+Утилита для загрузки музыки из **VK** или **Яндекс Музыки** в пользовательское радио **GTA V**.
+
+## Возможности
+
+- загрузка треков из VK и Яндекс Музыки  
+- автоматическое перемещение в папку `User Music`  
+- простое консольное использование  
+
+## Установка
+
+```bash
+pip install -r requirements.txt
+```
+
+## Запуск
+```bash
+python main.py
+```
+
+## Использование
+
+* Выберите платформу: vk или yandex
+* Следуйте инструкциям в консоли
+* Дождитесь загрузки треков
+
+После этого в GTA V выполните:
+
+`Settings → Audio → Perform Quick Scan for Music`
+
+## Требования
+* Windows
+* Установленная GTA V
+* Python 3
