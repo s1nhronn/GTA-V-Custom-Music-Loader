@@ -1,0 +1,2 @@
+tqdm~=4.67.1
+vkpymusic~=3.5.1 # https://github.com/python273/vk_api.git
